@@ -14,6 +14,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // TODO: - Look where you can hook publishable key from video https://www.youtube.com/watch?v=s5Ml41bZidw
+
+        // TODO: - Look where you can hook publishable key from video https://www.youtube.com/watch?v=s5Ml41bZidw
+
         
         // TODO: - Look where you can hook publishable key from video https://www.youtube.com/watch?v=s5Ml41bZidw
         Stripe.setDefaultPublishableKey("pk_test_51HlUsvHhKiVwskW4Z9xsqnJG9ajPGKf3PlIJn5LyAZFoxx8wqi3UbQ1OiC02ccWbOm56S04Fnu50rqQTjBSkcRxZ00KJPJjZiC")
