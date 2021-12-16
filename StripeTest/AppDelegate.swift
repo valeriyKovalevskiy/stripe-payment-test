@@ -12,7 +12,7 @@ import Stripe
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
-
+//15125
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
         // TODO: - Look where you can hook publishable key from video https://www.youtube.com/watch?v=s5Ml41bZidw
